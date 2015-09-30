@@ -5,7 +5,7 @@
                 "name": "podvincev-n/yii2-app-base",
                 "version": "dev-master",
                 "source": {
-                    "url": https://github.com/podvincev-n/yii2-app-base,
+                    "url": "https://github.com/podvincev-n/yii2-app-base",
                     "type": "git",
                     "reference": "master"
                 }
