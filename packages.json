@@ -18,6 +18,17 @@
                     "type": "zip"
                 }
             }
+        },
+        "podvincev-n/yii2-module-base": {
+            "dev-master": {
+                "name": "podvincev-n/yii2-module-base",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/podvincev-n/yii2-module-base",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
     }
 }
