@@ -9,6 +9,14 @@
                     "type": "git",
                     "reference": "master"
                 }
+            },
+            "1.0.0": {
+                "name": "podvincev-n/yii2-app-base",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "https://github.com/podvincev-n/yii2-app-base/releases/latest",
+                    "type": "zip",
+                }
             }
         }
     }
