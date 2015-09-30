@@ -1,0 +1,15 @@
+{
+    "packages": {
+        "podvincev-n/yii2-app-base": {
+            "dev-master": {
+                "name": "podvincev-n/yii2-app-base",
+                "version": "dev-master",
+                "source": {
+                    "url": https://github.com/podvincev-n/yii2-app-base,
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    }
+}
