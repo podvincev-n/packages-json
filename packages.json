@@ -27,11 +27,6 @@
                     "url": "https://github.com/podvincev-n/yii2-module-base",
                     "type": "git",
                     "reference": "master"
-                },
-                "scripts": {
-                    "post-create-project-cmd": [
-                        "php -r \"copy('Module.php', 'Module-copy.php');\""
-                    ]
                 }
             }
         }
