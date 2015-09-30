@@ -16,7 +16,7 @@
                 "minimum-stability": "stable",
                 "dist": {
                     "url": "https://github.com/podvincev-n/yii2-app-base/releases/latest",
-                    "type": "zip",
+                    "type": "zip"
                 }
             }
         }
