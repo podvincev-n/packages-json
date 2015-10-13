@@ -8,13 +8,9 @@
                     "url": "https://github.com/podvincev-n/yii2-app-base",
                     "type": "git",
                     "reference": "master"
-                }
-            },
-            "v1.0.0": {
-                "name": "podvincev-n/yii2-app-base",
-                "version": "1.0.0",
+                },
                 "dist": {
-                    "url": "https://github.com/podvincev-n/yii2-app-base/archive/v1.0.0.zip",
+                    "url": "https://github.com/podvincev-n/yii2-app-base/archive/master.zip",
                     "type": "zip"
                 }
             }
@@ -27,16 +23,20 @@
                     "url": "https://github.com/podvincev-n/yii2-module-base",
                     "type": "git",
                     "reference": "master"
-                }
-            },
-            "v1.0.0": {
-                "name": "podvincev-n/yii2-module-base",
-                "version": "1.0.0",
+                },
                 "dist": {
-                    "url": "https://github.com/podvincev-n/yii2-module-base/archive/v1.0.0.zip",
+                    "url": "https://github.com/podvincev-n/yii2-module-base/archive/master.zip",
                     "type": "zip"
                 }
-            }
+            }//,
+            //"v1.0.0": {
+            //    "name": "podvincev-n/yii2-module-base",
+            //    "version": "1.0.0",
+            //    "dist": {
+            //        "url": "https://github.com/podvincev-n/yii2-module-base/archive/v1.0.0.zip",
+            //        "type": "zip"
+            //    }
+            //}
         },
         "podvincev-n/yii2-module-rbac": {
             "dev-master": {
@@ -46,13 +46,9 @@
                     "url": "https://github.com/podvincev-n/yii2-module-rbac",
                     "type": "git",
                     "reference": "master"
-                }
-            },
-            "v1.0.0": {
-                "name": "podvincev-n/yii2-module-rbac",
-                "version": "1.0.0",
+                },
                 "dist": {
-                    "url": "https://github.com/podvincev-n/yii2-module-rbac/archive/v1.0.0.zip",
+                    "url": "https://github.com/podvincev-n/yii2-module-rbac/archive/master.zip",
                     "type": "zip"
                 }
             }
