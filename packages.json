@@ -18,7 +18,16 @@
         "podvincev-n/yii2-module-base": {
             "dev-master": {
                 "name": "podvincev-n/yii2-module-base",
+                "description": "Base Yii2 module",
                 "version": "dev-master",
+                "support": {
+                    "source": "https://github.com/podvincev-n/yii2-module-base"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Yii2m\\Base\\": ""
+                    }
+                },
                 "source": {
                     "url": "https://github.com/podvincev-n/yii2-module-base",
                     "type": "git",
@@ -33,7 +42,19 @@
         "podvincev-n/yii2-module-rbac": {
             "dev-master": {
                 "name": "podvincev-n/yii2-module-rbac",
+                "description": "RBAC module",
                 "version": "dev-master",
+                "support": {
+                    "source": "https://github.com/podvincev-n/yii2-module-rbac"
+                },
+                "require": {
+                    "podvincev-n/yii2-module-base": "*"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Yii2m\\Rbac\\": ""
+                    }
+                },
                 "source": {
                     "url": "https://github.com/podvincev-n/yii2-module-rbac",
                     "type": "git",
