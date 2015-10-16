@@ -4,11 +4,6 @@
             "dev-master": {
                 "name": "podvincev-n/yii2-app-base",
                 "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/podvincev-n/yii2-app-base",
-                    "type": "git",
-                    "reference": "master"
-                },
                 "autoload": {
                     "psr-4": {
                         "yiip\\install\\": "console/modules/install/"
@@ -16,6 +11,11 @@
                     "psr-4": {
                         "yiip\\": "vendor/podvincev-n/"
                     }
+                },
+                "source": {
+                    "url": "https://github.com/podvincev-n/yii2-app-base",
+                    "type": "git",
+                    "reference": "master"
                 },
                 "dist": {
                     "url": "https://github.com/podvincev-n/yii2-app-base/archive/master.zip",
